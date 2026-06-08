@@ -3,16 +3,23 @@ This project focuses on understanding and demonstrating the use of Funnel Charts
 
 ## Tools Used
 -Microsoft Power BI
+
 -Microsoft PowerPoint
+
 -Microsoft Excel 
 
 ## Project Components
 -Power BI Dashboard
+
 -Presentation (PPT)
+
 -Video Explanation
 
 ## Objectives
 -Understand Funnel and Scatter Chart visualizations in Power BI.
+
 -Learn how to create and customize these charts.
+
 -Analyze data using visual insights and trends.
+
 -Demonstrate real-world business applications of chart types.
